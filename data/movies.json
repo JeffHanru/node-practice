@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Inception",
+    "description": "A mind-bending movie about dreams within dreams.",
+    "duration": 148,
+    "rating": 8.8,
+    "totalRating": 2100000,
+    "releaseYear": 2010,
+    "releaseDate": "2010-07-16",
+    "genres": ["Science Fiction", "Action", "Thriller"],
+    "directors": ["Christopher Nolan"],
+    "coverImage": "inception.jpg",
+    "actors": ["Leonardo DiCaprio", "Joseph Gordon-Levitt", "Ellen Page"],
+    "price": 9.99
+  },
+  {
+    "name": "ABC",
+    "description": "A mind-bending movie about dreams within dreams.",
+    "duration": 148,
+    "rating": 8.8,
+    "totalRating": 2100000,
+    "releaseYear": 2010,
+    "releaseDate": "2010-07-16",
+    "genres": ["Science Fiction", "Action", "Thriller"],
+    "directors": ["Christopher Nolan"],
+    "coverImage": "inception.jpg",
+    "actors": ["Leonardo DiCaprio", "Joseph Gordon-Levitt", "Ellen Page"],
+    "price": 9.99
+  },
+  {
+    "name": "CBA",
+    "description": "A mind-bending movie about dreams within dreams.",
+    "duration": 148,
+    "rating": 8.8,
+    "totalRating": 2100000,
+    "releaseYear": 2010,
+    "releaseDate": "2010-07-16",
+    "genres": ["Science Fiction", "Action", "Thriller"],
+    "directors": ["Christopher Nolan"],
+    "coverImage": "inception.jpg",
+    "actors": ["Leonardo DiCaprio", "Joseph Gordon-Levitt", "Ellen Page"],
+    "price": 9.99
+  }
+]
